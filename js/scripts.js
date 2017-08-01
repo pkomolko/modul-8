@@ -26,7 +26,7 @@ if (wynikRownania > 0) {
 
 } else if (wynikRownania < 0) {
 
-    alert('wynik dodatni');
+    alert('wynik ujemny');
 
 } else {
 
